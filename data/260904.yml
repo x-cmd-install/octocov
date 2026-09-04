@@ -7,7 +7,7 @@ about:
   head: 4ed8723
   archived: false
   latestVersion: v0.76.0
-  collectedAt: 2026-09-04T19:44:34Z
+  collectedAt: 2026-09-04T20:50:02Z
 timeline:
   created: 2021-04-26
   lastCommit: 2026-09-04
@@ -84,5 +84,58 @@ total:
   openIssue: 10
   commit: 2385
 ---
+path: /home/runner/.x-repo/github.com/k1LoW/octocov
+collectedAt: 2026-09-04T20:50:03Z
+loc:
+  Json:
+    code: 262038
+    comments: 0
+    blanks: 0
+    files: 14
+  Xml:
+    code: 96631
+    comments: 2
+    blanks: 0
+    files: 5
+  Go:
+    code: 15997
+    comments: 676
+    blanks: 1262
+    files: 93
+  Svg:
+    code: 610
+    comments: 13
+    blanks: 32
+    files: 32
+  Yaml:
+    code: 94
+    comments: 0
+    blanks: 2
+    files: 20
+  Makefile:
+    code: 50
+    comments: 0
+    blanks: 16
+    files: 1
+  Dockerfile:
+    code: 16
+    comments: 0
+    blanks: 10
+    files: 3
+  Sh:
+    code: 1
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1462
+    blanks: 716
+    files: 7
+total:
+  code: 375761
+  comments: 2191
+  blanks: 2049
+  files: 176
 ---
 

@@ -1,0 +1,144 @@
+about:
+  description: "octocov is a toolkit for collecting code metrics (code coverage, code to test ratio, test execution time and your own custom metrics)."
+  license: NOASSERTION
+  homepage: https://octocov.dev
+  head: af9f279
+  archived: false
+  latestVersion: "v0.77.0"
+  latestRelease: "v0.77.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T04:34:25Z
+timeline:
+  created: 2021-04-26
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 
+popularity:
+  star: 508
+  watcher: 2
+  fork: 41
+  release: 181
+  contributor: 25
+  pullRequest: 667
+  issue: 62
+language:
+  Go: 504439
+  Go Template: 3067
+  Makefile: 1522
+  Dockerfile: 376
+  Shell: 25
+totalBytes: 509429
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 2
+    mergedPR: 15
+    openPR: 1
+    closedIssue: 2
+    openIssue: 3
+    commit: 67
+  last60d:
+    since: 2026-07-11
+    release: 5
+    mergedPR: 29
+    openPR: 1
+    closedIssue: 4
+    openIssue: 3
+    commit: 105
+  last90d:
+    since: 2026-06-11
+    release: 6
+    mergedPR: 32
+    openPR: 1
+    closedIssue: 4
+    openIssue: 3
+    commit: 113
+  last180d:
+    since: 2026-03-13
+    release: 11
+    mergedPR: 64
+    openPR: 1
+    closedIssue: 5
+    openIssue: 3
+    commit: 153
+  last360d:
+    since: 2025-09-14
+    release: 23
+    mergedPR: 115
+    openPR: 2
+    closedIssue: 12
+    openIssue: 4
+    commit: 245
+  last720d:
+    since: 2024-09-19
+    release: 49
+    mergedPR: 208
+    openPR: 2
+    closedIssue: 19
+    openIssue: 9
+    commit: 610
+total:
+  release: 181
+  mergedPR: 556
+  openPR: 2
+  closedIssue: 50
+  openIssue: 12
+  commit: 2421
+---
+path: /home/runner/.x-repo/github.com/k1LoW/octocov
+collectedAt: 2026-09-09T04:34:29Z
+loc:
+  Json:
+    code: 262038
+    comments: 0
+    blanks: 0
+    files: 14
+  Xml:
+    code: 96631
+    comments: 2
+    blanks: 0
+    files: 5
+  Go:
+    code: 16910
+    comments: 823
+    blanks: 1317
+    files: 97
+  Svg:
+    code: 610
+    comments: 13
+    blanks: 32
+    files: 32
+  Yaml:
+    code: 94
+    comments: 0
+    blanks: 2
+    files: 20
+  Makefile:
+    code: 50
+    comments: 0
+    blanks: 16
+    files: 1
+  Dockerfile:
+    code: 16
+    comments: 0
+    blanks: 10
+    files: 3
+  Sh:
+    code: 1
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1494
+    blanks: 732
+    files: 7
+total:
+  code: 376679
+  comments: 2370
+  blanks: 2120
+  files: 180
+---
+
+---

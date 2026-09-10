@@ -4,7 +4,7 @@
 
 octocov is a toolkit for collecting code metrics (code coverage, code to test ratio, test execution time and your own custom metrics).
 
-![octocov](https://repo.x-cmd.io/octocov.svg)
+![octocov](https://repo.x-cmd.io/octocov.svg?lang=zh)
 
 ## 安装
 
@@ -20,10 +20,29 @@ x install octocov
 
 ## 发布
 
-- **最新版本**: `v0.77.0` (2026-09-08)
+- **最新版本**: `v0.78.0` (2026-09-10)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-09-08T04:40:23Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums-darwin.txt](https://github.com/k1LoW/octocov/releases/download/v0.78.0/checksums-darwin.txt) | 198 B | `native/darwin/x64` |
+| [checksums-linux.txt](https://github.com/k1LoW/octocov/releases/download/v0.78.0/checksums-linux.txt) | 760 B | `other` |
+| [checksums-windows.txt](https://github.com/k1LoW/octocov/releases/download/v0.78.0/checksums-windows.txt) | 200 B | `native/win/x64` |
+| [octocov_0.78.0-1_amd64.apk](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_0.78.0-1_amd64.apk) | 22.7 MiB | `other` |
+| [octocov_0.78.0-1_amd64.deb](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_0.78.0-1_amd64.deb) | 21.8 MiB | `runtime/deb/amd64` |
+| [octocov_0.78.0-1_amd64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_0.78.0-1_amd64.rpm) | 21.8 MiB | `other` |
+| [octocov_0.78.0-1_arm64.apk](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_0.78.0-1_arm64.apk) | 20.6 MiB | `other` |
+| [octocov_0.78.0-1_arm64.deb](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_0.78.0-1_arm64.deb) | 19.8 MiB | `runtime/deb/arm64` |
+| [octocov_0.78.0-1_arm64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_0.78.0-1_arm64.rpm) | 19.8 MiB | `other` |
+| [octocov_v0.78.0_darwin_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_darwin_amd64.zip) | 22.1 MiB | `native/darwin/x64` |
+| [octocov_v0.78.0_darwin_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_darwin_arm64.zip) | 20.8 MiB | `native/darwin/arm64` |
+| [octocov_v0.78.0_linux_amd64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_linux_amd64.tar.gz) | 21.8 MiB | `native/linux/x64` |
+| [octocov_v0.78.0_linux_arm64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_linux_arm64.tar.gz) | 19.9 MiB | `native/linux/arm64` |
+| [octocov_v0.78.0_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_windows_amd64.zip) | 21.9 MiB | `native/win/x64` |
+| [octocov_v0.78.0_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_windows_arm64.zip) | 19.7 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -31,25 +50,25 @@ x install octocov
 
 ## 累计统计
 
-- **发布数**: 181 · **已合并 PR**: 567 · **开放 PR**: 3 · **已关闭 issue**: 62 · **开放 issue**: 9 · **提交数**: 2467
+- **发布数**: 182 · **已合并 PR**: 569 · **开放 PR**: 1 · **已关闭 issue**: 63 · **开放 issue**: 8 · **提交数**: 2474
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 25 | 2 | 14 | 0 | 102 |
-| 90d | 2026-06-12 | 6 | 43 | 2 | 16 | 0 | 148 |
-| 360d | 2025-09-15 | 23 | 126 | 3 | 24 | 1 | 280 |
+| 30d | 2026-08-11 | 3 | 27 | 0 | 14 | 0 | 107 |
+| 90d | 2026-06-12 | 7 | 45 | 0 | 16 | 0 | 153 |
+| 360d | 2025-09-15 | 24 | 128 | 1 | 24 | 1 | 285 |
 
 ## 代码规模
 
-合计: **377,316** 行代码（覆盖前 5 种语言、共 **170** 个文件）。
+合计: **377,317** 行代码（覆盖前 5 种语言、共 **170** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 262,038 | 0 | 0 | 14 |
 | Xml | 96,631 | 2 | 0 | 5 |
-| Go | 17,876 | 1,065 | 1,363 | 99 |
+| Go | 17,877 | 1,065 | 1,363 | 99 |
 | Svg | 610 | 13 | 32 | 32 |
 | Yaml | 94 | 0 | 2 | 20 |
 
@@ -62,4 +81,4 @@ octocov 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:36:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:32Z._

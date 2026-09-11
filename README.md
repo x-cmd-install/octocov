@@ -12,6 +12,18 @@ octocov is a toolkit for collecting code metrics (code coverage, code to test ra
 x install octocov
 ```
 
+## Code insight
+
+Total: **377,317** lines of code across **170** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 262,038 | 0 | 0 | 14 |
+| Xml | 96,631 | 2 | 0 | 5 |
+| Go | 17,877 | 1,065 | 1,363 | 99 |
+| Svg | 610 | 13 | 32 | 32 |
+| Yaml | 94 | 0 | 2 | 20 |
+
 ## Source
 
 - **Upstream**: <https://github.com/k1LoW/octocov>
@@ -23,6 +35,25 @@ x install octocov
 - **Latest**: `v0.78.0` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 15
+
+## Popularity
+
+- **Stars**: 509 · **Forks**: 42 · **Open issues**: 71 · **Contributors**: 25
+
+## Totals (cumulative)
+
+- **Releases**: 182 · **Merged PRs**: 569 · **Open PRs**: 1 · **Closed issues**: 63 · **Open issues**: 8 · **Commits**: 2474
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 3 | 27 | 0 | 14 | 0 | 107 |
+| last60d | 2026-07-13 | 6 | 41 | 0 | 16 | 0 | 145 |
+| 90d | 2026-06-13 | 7 | 45 | 0 | 16 | 0 | 153 |
+| last180d | 2026-03-15 | 12 | 75 | 0 | 16 | 0 | 193 |
+| 360d | 2025-09-16 | 24 | 128 | 1 | 24 | 1 | 285 |
+| last720d | 2024-09-21 | 50 | 221 | 1 | 31 | 6 | 663 |
 
 ## Release assets
 
@@ -44,34 +75,6 @@ x install octocov
 | [octocov_v0.78.0_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_windows_amd64.zip) | 21.9 MiB | `native/win/x64` |
 | [octocov_v0.78.0_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.78.0/octocov_v0.78.0_windows_arm64.zip) | 19.7 MiB | `native/win/arm64` |
 
-## Popularity
-
-- **Stars**: 508 · **Forks**: 41 · **Open issues**: 71 · **Contributors**: 25
-
-## Totals (cumulative)
-
-- **Releases**: 182 · **Merged PRs**: 569 · **Open PRs**: 1 · **Closed issues**: 63 · **Open issues**: 8 · **Commits**: 2474
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 27 | 0 | 14 | 0 | 107 |
-| 90d | 2026-06-12 | 7 | 45 | 0 | 16 | 0 | 153 |
-| 360d | 2025-09-15 | 24 | 128 | 1 | 24 | 1 | 285 |
-
-## Code size
-
-Total: **377,317** lines of code across **170** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 262,038 | 0 | 0 | 14 |
-| Xml | 96,631 | 2 | 0 | 5 |
-| Go | 17,877 | 1,065 | 1,363 | 99 |
-| Svg | 610 | 13 | 32 | 32 |
-| Yaml | 94 | 0 | 2 | 20 |
-
 ## Improve this data
 
 Install metadata for octocov lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `octocov` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +84,4 @@ Install metadata for octocov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:32Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:19:30Z._

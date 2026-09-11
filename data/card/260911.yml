@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.78.0"
   latestRelease: "v0.78.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:19:22Z
+  collectedAt: 2026-09-11T04:31:46Z
 timeline:
   created: 2021-04-26
   lastCommit: 2026-09-10
@@ -87,7 +87,7 @@ total:
   commit: 2474
 ---
 path: /home/runner/.x-repo/github.com/k1LoW/octocov
-collectedAt: 2026-09-11T00:19:24Z
+collectedAt: 2026-09-11T04:31:48Z
 loc:
   Json:
     code: 262038

@@ -14,14 +14,14 @@ x install octocov
 
 ## Code insight
 
-Total: **377,317** lines of code across **170** files in the top 5 languages.
+Total: **377,524** lines of code across **170** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 262,038 | 0 | 0 | 14 |
 | Xml | 96,631 | 2 | 0 | 5 |
-| Go | 17,877 | 1,065 | 1,363 | 99 |
-| Svg | 610 | 13 | 32 | 32 |
+| Go | 18,083 | 1,095 | 1,379 | 99 |
+| Svg | 611 | 12 | 34 | 32 |
 | Yaml | 94 | 0 | 2 | 20 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **377,317** lines of code across **170** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.78.0` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-13
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 509 · **Forks**: 42 · **Open issues**: 71 · **Contributors**: 25
+- **Stars**: 510 · **Forks**: 42 · **Open issues**: 71 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 569 · **Open PRs**: 1 · **Closed issues**: 63 · **Open issues**: 8 · **Commits**: 2474
+- **Releases**: 182 · **Merged PRs**: 570 · **Open PRs**: 2 · **Closed issues**: 63 · **Open issues**: 8 · **Commits**: 2486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 27 | 0 | 14 | 0 | 107 |
-| last60d | 2026-07-13 | 6 | 41 | 0 | 16 | 0 | 145 |
-| 90d | 2026-06-13 | 7 | 45 | 0 | 16 | 0 | 153 |
-| last180d | 2026-03-15 | 12 | 75 | 0 | 16 | 0 | 193 |
-| 360d | 2025-09-16 | 24 | 128 | 1 | 24 | 1 | 285 |
-| last720d | 2024-09-21 | 50 | 221 | 1 | 31 | 6 | 663 |
+| 30d | 2026-08-14 | 3 | 28 | 1 | 14 | 0 | 117 |
+| last60d | 2026-07-15 | 6 | 42 | 1 | 16 | 0 | 146 |
+| 90d | 2026-06-15 | 7 | 46 | 1 | 16 | 0 | 162 |
+| last180d | 2026-03-17 | 12 | 74 | 1 | 16 | 0 | 193 |
+| 360d | 2025-09-18 | 24 | 129 | 2 | 23 | 1 | 295 |
+| last720d | 2024-09-23 | 50 | 222 | 2 | 31 | 6 | 675 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for octocov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:26:35Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:47:08Z._

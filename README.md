@@ -14,13 +14,13 @@ x install octocov
 
 ## Code insight
 
-Total: **384,449** lines of code across **171** files in the top 5 languages.
+Total: **384,460** lines of code across **171** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 263,289 | 0 | 0 | 17 |
 | Xml | 96,631 | 2 | 0 | 5 |
-| Go | 23,296 | 1,745 | 1,688 | 111 |
+| Go | 23,307 | 1,748 | 1,689 | 111 |
 | Svg | 616 | 12 | 34 | 33 |
 | JavaScript | 405 | 119 | 17 | 5 |
 
@@ -32,8 +32,8 @@ Total: **384,449** lines of code across **171** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.83.2` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Latest**: `v0.83.3` (2026-10-09)
+- **Last commit**: 2026-10-09
 - **Assets in release**: 13
 
 ## Popularity
@@ -42,36 +42,36 @@ Total: **384,449** lines of code across **171** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 616 · **Open PRs**: 2 · **Closed issues**: 77 · **Open issues**: 1 · **Commits**: 2682
+- **Releases**: 192 · **Merged PRs**: 620 · **Open PRs**: 1 · **Closed issues**: 77 · **Open issues**: 1 · **Commits**: 2692
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 10 | 48 | 2 | 6 | 1 | 162 |
-| last60d | 2026-08-10 | 12 | 75 | 2 | 20 | 1 | 269 |
-| 90d | 2026-07-11 | 15 | 89 | 2 | 22 | 1 | 308 |
-| last180d | 2026-04-12 | 18 | 105 | 2 | 22 | 1 | 333 |
-| 360d | 2025-10-14 | 32 | 171 | 2 | 28 | 1 | 439 |
-| last720d | 2024-10-19 | 59 | 266 | 2 | 43 | 1 | 868 |
+| 30d | 2026-09-10 | 11 | 51 | 1 | 6 | 1 | 168 |
+| last60d | 2026-08-11 | 13 | 78 | 1 | 20 | 1 | 275 |
+| 90d | 2026-07-12 | 16 | 93 | 1 | 22 | 1 | 314 |
+| last180d | 2026-04-13 | 19 | 109 | 1 | 22 | 1 | 339 |
+| 360d | 2025-10-15 | 33 | 175 | 1 | 28 | 1 | 445 |
+| last720d | 2024-10-20 | 60 | 270 | 1 | 43 | 1 | 878 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/k1LoW/octocov/releases/download/v0.83.2/checksums.txt) | 1.1 KiB | `other` |
-| [octocov_0.83.2-1_amd64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_0.83.2-1_amd64.apk) | 45.0 MiB | `other` |
-| [octocov_0.83.2-1_amd64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_0.83.2-1_amd64.deb) | 42.9 MiB | `runtime/deb/amd64` |
-| [octocov_0.83.2-1_amd64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_0.83.2-1_amd64.rpm) | 42.9 MiB | `other` |
-| [octocov_0.83.2-1_arm64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_0.83.2-1_arm64.apk) | 41.0 MiB | `other` |
-| [octocov_0.83.2-1_arm64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_0.83.2-1_arm64.deb) | 39.3 MiB | `runtime/deb/arm64` |
-| [octocov_0.83.2-1_arm64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_0.83.2-1_arm64.rpm) | 39.3 MiB | `other` |
-| [octocov_v0.83.2_darwin_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_v0.83.2_darwin_amd64.zip) | 43.8 MiB | `native/darwin/x64` |
-| [octocov_v0.83.2_darwin_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_v0.83.2_darwin_arm64.zip) | 41.2 MiB | `native/darwin/arm64` |
-| [octocov_v0.83.2_linux_amd64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_v0.83.2_linux_amd64.tar.gz) | 42.9 MiB | `native/linux/x64` |
-| [octocov_v0.83.2_linux_arm64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_v0.83.2_linux_arm64.tar.gz) | 39.3 MiB | `native/linux/arm64` |
-| [octocov_v0.83.2_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_v0.83.2_windows_amd64.zip) | 43.8 MiB | `native/win/x64` |
-| [octocov_v0.83.2_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.2/octocov_v0.83.2_windows_arm64.zip) | 39.5 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/k1LoW/octocov/releases/download/v0.83.3/checksums.txt) | 1.1 KiB | `other` |
+| [octocov_0.83.3-1_amd64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_amd64.apk) | 45.1 MiB | `other` |
+| [octocov_0.83.3-1_amd64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_amd64.deb) | 42.9 MiB | `runtime/deb/amd64` |
+| [octocov_0.83.3-1_amd64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_amd64.rpm) | 42.9 MiB | `other` |
+| [octocov_0.83.3-1_arm64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_arm64.apk) | 41.0 MiB | `other` |
+| [octocov_0.83.3-1_arm64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_arm64.deb) | 39.3 MiB | `runtime/deb/arm64` |
+| [octocov_0.83.3-1_arm64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_arm64.rpm) | 39.3 MiB | `other` |
+| [octocov_v0.83.3_darwin_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_darwin_amd64.zip) | 43.8 MiB | `native/darwin/x64` |
+| [octocov_v0.83.3_darwin_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_darwin_arm64.zip) | 41.2 MiB | `native/darwin/arm64` |
+| [octocov_v0.83.3_linux_amd64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_linux_amd64.tar.gz) | 43.0 MiB | `native/linux/x64` |
+| [octocov_v0.83.3_linux_arm64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_linux_arm64.tar.gz) | 39.3 MiB | `native/linux/arm64` |
+| [octocov_v0.83.3_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_windows_amd64.zip) | 43.8 MiB | `native/win/x64` |
+| [octocov_v0.83.3_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_windows_arm64.zip) | 39.5 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for octocov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:06:54Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:44:16Z._

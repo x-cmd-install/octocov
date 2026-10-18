@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1158,
       "digest": "sha256:c2b302046b81a1937ecfc6cdea6fd60ead453e7fda3aa7e62dda50cef55c375a",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-10-09T10:16:29Z",
       "updated_at": "2026-10-09T10:16:29Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.3/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 45021136,
       "digest": "sha256:94493eeb341eefb6ce82a048c8926c5c62b3c2c6497d66d341264c72c0c095c3",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-09T10:16:25Z",
       "updated_at": "2026-10-09T10:16:29Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 43179762,
       "digest": "sha256:8a6537a6c9d0ffcbe1d629e8d0d357c23722b8fb3d5d4b98e074334214db1f80",
-      "download_count": 710,
+      "download_count": 732,
       "created_at": "2026-10-09T10:16:21Z",
       "updated_at": "2026-10-09T10:16:24Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_darwin_arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 45046692,
       "digest": "sha256:8d6576580d151e785474f193d740f63cb91b70ac767d402410fcd7f187a34202",
-      "download_count": 82006,
+      "download_count": 84700,
       "created_at": "2026-10-09T10:16:21Z",
       "updated_at": "2026-10-09T10:16:25Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_linux_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 41201272,
       "digest": "sha256:8595cf6817ad857c1e90224eaf9502826088945319950b77820a75d4b22b23dd",
-      "download_count": 8137,
+      "download_count": 8267,
       "created_at": "2026-10-09T10:16:25Z",
       "updated_at": "2026-10-09T10:16:30Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_linux_arm64.tar.gz"

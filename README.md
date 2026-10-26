@@ -48,12 +48,12 @@ Total: **384,460** lines of code across **171** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 7 | 20 | 3 | 1 | 1 | 12 |
-| last60d | 2026-08-26 | 13 | 78 | 3 | 20 | 1 | 267 |
-| 90d | 2026-07-27 | 14 | 83 | 3 | 21 | 1 | 291 |
-| last180d | 2026-04-28 | 18 | 103 | 3 | 22 | 1 | 332 |
-| 360d | 2025-10-30 | 33 | 171 | 3 | 28 | 1 | 441 |
-| last720d | 2024-11-04 | 60 | 270 | 3 | 43 | 1 | 878 |
+| 30d | 2026-09-26 | 5 | 18 | 3 | 1 | 1 | 12 |
+| last60d | 2026-08-27 | 13 | 78 | 3 | 20 | 1 | 267 |
+| 90d | 2026-07-28 | 13 | 83 | 3 | 21 | 1 | 291 |
+| last180d | 2026-04-29 | 18 | 103 | 3 | 22 | 1 | 332 |
+| 360d | 2025-10-31 | 33 | 171 | 3 | 28 | 1 | 441 |
+| last720d | 2024-11-05 | 60 | 270 | 3 | 43 | 1 | 878 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for octocov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:34:06Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:36:02Z._

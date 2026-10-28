@@ -32,7 +32,7 @@ x install octocov
 
 ## 发布
 
-- **最新版本**: `v0.83.3` (2026-10-09)
+- **最新版本**: `v0.83.4` (2026-10-27)
 - **最近提交**: 2026-10-27
 - **Release 含资产**: 13 个
 
@@ -42,36 +42,36 @@ x install octocov
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 624 · **开放 PR**: 2 · **已关闭 issue**: 77 · **开放 issue**: 2 · **提交数**: 2703
+- **发布数**: 193 · **已合并 PR**: 625 · **开放 PR**: 0 · **已关闭 issue**: 77 · **开放 issue**: 2 · **提交数**: 2706
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 4 | 14 | 2 | 0 | 2 | 19 |
-| last60d | 2026-08-28 | 13 | 82 | 2 | 20 | 2 | 274 |
-| 90d | 2026-07-29 | 13 | 87 | 2 | 21 | 2 | 298 |
-| last180d | 2026-04-30 | 18 | 107 | 2 | 22 | 2 | 339 |
-| 360d | 2025-11-01 | 33 | 175 | 2 | 28 | 2 | 448 |
-| last720d | 2024-11-06 | 60 | 274 | 2 | 43 | 2 | 889 |
+| 30d | 2026-09-28 | 4 | 13 | 0 | 0 | 2 | 21 |
+| last60d | 2026-08-29 | 14 | 83 | 0 | 20 | 2 | 276 |
+| 90d | 2026-07-30 | 14 | 88 | 0 | 21 | 2 | 300 |
+| last180d | 2026-05-01 | 19 | 108 | 0 | 22 | 2 | 341 |
+| 360d | 2025-11-02 | 34 | 176 | 0 | 28 | 2 | 450 |
+| last720d | 2024-11-07 | 61 | 275 | 0 | 43 | 2 | 892 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/k1LoW/octocov/releases/download/v0.83.3/checksums.txt) | 1.1 KiB | `other` |
-| [octocov_0.83.3-1_amd64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_amd64.apk) | 45.1 MiB | `other` |
-| [octocov_0.83.3-1_amd64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_amd64.deb) | 42.9 MiB | `runtime/deb/amd64` |
-| [octocov_0.83.3-1_amd64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_amd64.rpm) | 42.9 MiB | `other` |
-| [octocov_0.83.3-1_arm64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_arm64.apk) | 41.0 MiB | `other` |
-| [octocov_0.83.3-1_arm64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_arm64.deb) | 39.3 MiB | `runtime/deb/arm64` |
-| [octocov_0.83.3-1_arm64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_0.83.3-1_arm64.rpm) | 39.3 MiB | `other` |
-| [octocov_v0.83.3_darwin_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_darwin_amd64.zip) | 43.8 MiB | `native/darwin/x64` |
-| [octocov_v0.83.3_darwin_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_darwin_arm64.zip) | 41.2 MiB | `native/darwin/arm64` |
-| [octocov_v0.83.3_linux_amd64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_linux_amd64.tar.gz) | 43.0 MiB | `native/linux/x64` |
-| [octocov_v0.83.3_linux_arm64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_linux_arm64.tar.gz) | 39.3 MiB | `native/linux/arm64` |
-| [octocov_v0.83.3_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_windows_amd64.zip) | 43.8 MiB | `native/win/x64` |
-| [octocov_v0.83.3_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.3/octocov_v0.83.3_windows_arm64.zip) | 39.5 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/k1LoW/octocov/releases/download/v0.83.4/checksums.txt) | 1.1 KiB | `other` |
+| [octocov_0.83.4-1_amd64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_amd64.apk) | 45.1 MiB | `other` |
+| [octocov_0.83.4-1_amd64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_amd64.deb) | 43.0 MiB | `runtime/deb/amd64` |
+| [octocov_0.83.4-1_amd64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_amd64.rpm) | 44.3 MiB | `other` |
+| [octocov_0.83.4-1_arm64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_arm64.apk) | 41.0 MiB | `other` |
+| [octocov_0.83.4-1_arm64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_arm64.deb) | 39.3 MiB | `runtime/deb/arm64` |
+| [octocov_0.83.4-1_arm64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_arm64.rpm) | 40.5 MiB | `other` |
+| [octocov_v0.83.4_darwin_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_darwin_amd64.zip) | 43.8 MiB | `native/darwin/x64` |
+| [octocov_v0.83.4_darwin_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_darwin_arm64.zip) | 41.2 MiB | `native/darwin/arm64` |
+| [octocov_v0.83.4_linux_amd64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_linux_amd64.tar.gz) | 43.0 MiB | `native/linux/x64` |
+| [octocov_v0.83.4_linux_arm64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_linux_arm64.tar.gz) | 39.3 MiB | `native/linux/arm64` |
+| [octocov_v0.83.4_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_windows_amd64.zip) | 43.9 MiB | `native/win/x64` |
+| [octocov_v0.83.4_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_windows_arm64.zip) | 39.5 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ octocov 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T04:56:04Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:37:08Z._

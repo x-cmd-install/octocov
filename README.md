@@ -32,46 +32,46 @@ Total: **384,558** lines of code across **171** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.83.4` (2026-10-27)
-- **Last commit**: 2026-10-27
+- **Latest**: `v0.83.5` (2026-11-05)
+- **Last commit**: 2026-11-05
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 517 · **Forks**: 41 · **Open issues**: 79 · **Contributors**: 25
+- **Stars**: 518 · **Forks**: 41 · **Open issues**: 79 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 625 · **Open PRs**: 3 · **Closed issues**: 77 · **Open issues**: 2 · **Commits**: 2706
+- **Releases**: 194 · **Merged PRs**: 629 · **Open PRs**: 0 · **Closed issues**: 77 · **Open issues**: 2 · **Commits**: 2715
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 11 | 3 | 0 | 1 | 14 |
-| last60d | 2026-09-05 | 13 | 76 | 3 | 20 | 2 | 220 |
-| 90d | 2026-08-06 | 14 | 84 | 3 | 21 | 2 | 286 |
-| last180d | 2026-05-08 | 19 | 108 | 3 | 22 | 2 | 339 |
-| 360d | 2025-11-09 | 34 | 176 | 3 | 27 | 2 | 450 |
-| last720d | 2024-11-14 | 61 | 274 | 3 | 43 | 2 | 891 |
+| 30d | 2026-10-06 | 4 | 15 | 0 | 0 | 1 | 19 |
+| last60d | 2026-09-06 | 14 | 78 | 0 | 20 | 2 | 225 |
+| 90d | 2026-08-07 | 15 | 88 | 0 | 21 | 2 | 291 |
+| last180d | 2026-05-09 | 20 | 112 | 0 | 22 | 2 | 344 |
+| 360d | 2025-11-10 | 35 | 180 | 0 | 27 | 2 | 455 |
+| last720d | 2024-11-15 | 62 | 278 | 0 | 43 | 2 | 899 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/k1LoW/octocov/releases/download/v0.83.4/checksums.txt) | 1.1 KiB | `other` |
-| [octocov_0.83.4-1_amd64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_amd64.apk) | 45.1 MiB | `other` |
-| [octocov_0.83.4-1_amd64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_amd64.deb) | 43.0 MiB | `runtime/deb/amd64` |
-| [octocov_0.83.4-1_amd64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_amd64.rpm) | 44.3 MiB | `other` |
-| [octocov_0.83.4-1_arm64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_arm64.apk) | 41.0 MiB | `other` |
-| [octocov_0.83.4-1_arm64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_arm64.deb) | 39.3 MiB | `runtime/deb/arm64` |
-| [octocov_0.83.4-1_arm64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_0.83.4-1_arm64.rpm) | 40.5 MiB | `other` |
-| [octocov_v0.83.4_darwin_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_darwin_amd64.zip) | 43.8 MiB | `native/darwin/x64` |
-| [octocov_v0.83.4_darwin_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_darwin_arm64.zip) | 41.2 MiB | `native/darwin/arm64` |
-| [octocov_v0.83.4_linux_amd64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_linux_amd64.tar.gz) | 43.0 MiB | `native/linux/x64` |
-| [octocov_v0.83.4_linux_arm64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_linux_arm64.tar.gz) | 39.3 MiB | `native/linux/arm64` |
-| [octocov_v0.83.4_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_windows_amd64.zip) | 43.9 MiB | `native/win/x64` |
-| [octocov_v0.83.4_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.4/octocov_v0.83.4_windows_arm64.zip) | 39.5 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/k1LoW/octocov/releases/download/v0.83.5/checksums.txt) | 1.1 KiB | `other` |
+| [octocov_0.83.5-1_amd64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_0.83.5-1_amd64.apk) | 45.6 MiB | `other` |
+| [octocov_0.83.5-1_amd64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_0.83.5-1_amd64.deb) | 43.5 MiB | `runtime/deb/amd64` |
+| [octocov_0.83.5-1_amd64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_0.83.5-1_amd64.rpm) | 44.9 MiB | `other` |
+| [octocov_0.83.5-1_arm64.apk](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_0.83.5-1_arm64.apk) | 41.6 MiB | `other` |
+| [octocov_0.83.5-1_arm64.deb](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_0.83.5-1_arm64.deb) | 39.8 MiB | `runtime/deb/arm64` |
+| [octocov_0.83.5-1_arm64.rpm](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_0.83.5-1_arm64.rpm) | 40.9 MiB | `other` |
+| [octocov_v0.83.5_darwin_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_darwin_amd64.zip) | 44.4 MiB | `native/darwin/x64` |
+| [octocov_v0.83.5_darwin_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_darwin_arm64.zip) | 41.7 MiB | `native/darwin/arm64` |
+| [octocov_v0.83.5_linux_amd64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_linux_amd64.tar.gz) | 43.6 MiB | `native/linux/x64` |
+| [octocov_v0.83.5_linux_arm64.tar.gz](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_linux_arm64.tar.gz) | 39.8 MiB | `native/linux/arm64` |
+| [octocov_v0.83.5_windows_amd64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_windows_amd64.zip) | 44.5 MiB | `native/win/x64` |
+| [octocov_v0.83.5_windows_arm64.zip](https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_windows_arm64.zip) | 40.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for octocov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:16:01Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:33:33Z._

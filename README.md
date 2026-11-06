@@ -38,7 +38,7 @@ Total: **384,558** lines of code across **171** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 518 · **Forks**: 41 · **Open issues**: 79 · **Contributors**: 25
+- **Stars**: 519 · **Forks**: 41 · **Open issues**: 79 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **384,558** lines of code across **171** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 4 | 15 | 0 | 0 | 1 | 19 |
-| last60d | 2026-09-06 | 14 | 78 | 0 | 20 | 2 | 225 |
-| 90d | 2026-08-07 | 15 | 88 | 0 | 21 | 2 | 291 |
-| last180d | 2026-05-09 | 20 | 112 | 0 | 22 | 2 | 344 |
-| 360d | 2025-11-10 | 35 | 180 | 0 | 27 | 2 | 455 |
-| last720d | 2024-11-15 | 62 | 278 | 0 | 43 | 2 | 899 |
+| 30d | 2026-10-07 | 4 | 14 | 0 | 0 | 1 | 19 |
+| last60d | 2026-09-07 | 14 | 75 | 0 | 19 | 2 | 225 |
+| 90d | 2026-08-08 | 15 | 88 | 0 | 21 | 2 | 291 |
+| last180d | 2026-05-10 | 20 | 111 | 0 | 22 | 2 | 344 |
+| 360d | 2025-11-11 | 35 | 180 | 0 | 27 | 2 | 455 |
+| last720d | 2024-11-16 | 62 | 278 | 0 | 43 | 2 | 899 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for octocov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:33:33Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:29:45Z._

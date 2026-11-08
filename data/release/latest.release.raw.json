@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1158,
       "digest": "sha256:dc56fd3c6ce3bf39aa930d8e5259f5b38e5de3edf8a7b7c3beb0bf68fbb8e526",
-      "download_count": 76,
+      "download_count": 88,
       "created_at": "2026-11-05T02:05:02Z",
       "updated_at": "2026-11-05T02:05:03Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.5/checksums.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 43759182,
       "digest": "sha256:31cee98c5c21f5c4e07a30df13456daa6bba73cc666875831f9207a73bbdc20b",
-      "download_count": 28,
+      "download_count": 31,
       "created_at": "2026-11-05T02:04:56Z",
       "updated_at": "2026-11-05T02:04:59Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_darwin_arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 45688720,
       "digest": "sha256:3aa6973a8e68036b640dac6ef0c5456dda12289c7abbdaf7b919a036555d8e9c",
-      "download_count": 969,
+      "download_count": 1018,
       "created_at": "2026-11-05T02:04:56Z",
       "updated_at": "2026-11-05T02:04:59Z",
       "browser_download_url": "https://github.com/k1LoW/octocov/releases/download/v0.83.5/octocov_v0.83.5_linux_amd64.tar.gz"
